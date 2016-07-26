@@ -1,0 +1,64 @@
+main { 
+font-size: 0;
+padding: 60px;
+
+
+ }
+
+
+.border { 
+border: 1px solid black;
+
+ }
+
+.inner-top {
+
+width: 50%;
+height: 200px;
+display:inline-block;
+
+
+}
+
+.inner-bottom {
+width: 33.33%;
+height:300px;
+display: inline-block;
+
+
+}
+
+
+.inner-green {
+
+
+	background-color: green;
+}
+
+
+.inner-blue {
+
+background-color: blue;
+
+}
+
+
+.inner-grey {
+
+
+	background-color: grey;
+}
+
+
+
+
+.inner-black {
+
+	background-color: black;
+}
+
+
+ 
+.inner-orange {
+	background-color: orange;
+}
